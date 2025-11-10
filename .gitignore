@@ -1,0 +1,8 @@
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.vcxproj.user
+.vscode/
+.idea/
