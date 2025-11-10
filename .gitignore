@@ -6,3 +6,5 @@ obj/
 *.vcxproj.user
 .vscode/
 .idea/
+
+.env
